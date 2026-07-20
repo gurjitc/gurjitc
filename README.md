@@ -57,6 +57,7 @@ An AI-assisted enterprise SaaS platform built from the ground up.
 - React
 - TypeScript
 - Tailwind CSS
+- Angular
 
 ### Backend
 - Node.js
@@ -89,4 +90,5 @@ An AI-assisted enterprise SaaS platform built from the ground up.
 
 ## 🤝 Connect
 
-- LinkedIn: linkedin.com/in/gchahal96
+- LinkedIn: [https://www.linkedin.com/in/gchahal96/](https://www.linkedin.com/in/gchahal96/)
+- Portfolio: https://gurjit.dev/
