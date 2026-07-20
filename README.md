@@ -56,7 +56,6 @@ An AI-assisted enterprise SaaS platform built from the ground up.
 ### Frontend
 - React
 - TypeScript
-- Next.js
 - Tailwind CSS
 
 ### Backend
